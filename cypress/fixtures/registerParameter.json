@@ -1,0 +1,7 @@
+{
+    "name": "Bikash shah",
+    "email": "bikashshahofficial1123@yopmail.com",
+    "password": "bikash@123",
+    "confirmPassword":"worngpassword",
+    "successMessage": "User account created successfully"
+  }
